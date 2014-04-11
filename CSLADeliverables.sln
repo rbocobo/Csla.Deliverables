@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLADeliverables.Common", "CSLADeliverables.Common\CSLADeliverables.Common.csproj", "{3330483F-CE50-4D91-B455-86871EB53467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLADeliverables.Tests", "CSLADeliverables.Test\CSLADeliverables.Tests.csproj", "{18016F3B-A580-4D61-9FA7-23F9669BF322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLADeliverables.Tests.Integration", "CSLADeliverables.Tests.Integration\CSLADeliverables.Tests.Integration.csproj", "{517AC04B-50C4-4051-9110-FD27B5151108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLADeliverables.Tests.Integration.Fake", "CSLADeliverables.Tests.Integration.Fake\CSLADeliverables.Tests.Integration.Fake.csproj", "{C0C68885-FE55-4BB4-BEE0-3A178F394106}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://marce-evangelista.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CSLADeliverables.Common\\CSLADeliverables.Common.csproj
+		SccProjectName1 = CSLADeliverables.Common
+		SccLocalPath1 = CSLADeliverables.Common
+		SccProjectUniqueName2 = CSLADeliverables.Tests.Integration\\CSLADeliverables.Tests.Integration.csproj
+		SccProjectName2 = CSLADeliverables.Tests.Integration
+		SccLocalPath2 = CSLADeliverables.Tests.Integration
+		SccProjectUniqueName3 = CSLADeliverables.Test\\CSLADeliverables.Tests.csproj
+		SccProjectName3 = CSLADeliverables.Test
+		SccLocalPath3 = CSLADeliverables.Test
+		SccProjectUniqueName4 = CSLADeliverables.Tests.Integration.Fake\\CSLADeliverables.Tests.Integration.Fake.csproj
+		SccProjectName4 = CSLADeliverables.Tests.Integration.Fake
+		SccLocalPath4 = CSLADeliverables.Tests.Integration.Fake
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3330483F-CE50-4D91-B455-86871EB53467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3330483F-CE50-4D91-B455-86871EB53467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3330483F-CE50-4D91-B455-86871EB53467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3330483F-CE50-4D91-B455-86871EB53467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18016F3B-A580-4D61-9FA7-23F9669BF322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18016F3B-A580-4D61-9FA7-23F9669BF322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18016F3B-A580-4D61-9FA7-23F9669BF322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18016F3B-A580-4D61-9FA7-23F9669BF322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517AC04B-50C4-4051-9110-FD27B5151108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517AC04B-50C4-4051-9110-FD27B5151108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517AC04B-50C4-4051-9110-FD27B5151108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517AC04B-50C4-4051-9110-FD27B5151108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C68885-FE55-4BB4-BEE0-3A178F394106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C68885-FE55-4BB4-BEE0-3A178F394106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C68885-FE55-4BB4-BEE0-3A178F394106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C68885-FE55-4BB4-BEE0-3A178F394106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
